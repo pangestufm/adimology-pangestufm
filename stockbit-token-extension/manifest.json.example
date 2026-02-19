@@ -8,7 +8,7 @@
   ],
   "host_permissions": [
     "https://*.stockbit.com/*",
-    "https://adimology-frsl.netlify.app/"
+    "https://your-app.netlify.app/*"
   ],
   "background": {
     "service_worker": "background.js"
